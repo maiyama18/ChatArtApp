@@ -5,11 +5,16 @@
 ChatArt
 ========
 
-ChatArt is an app designed to make your conversations with GPT models more enjoyable and efficient. The app comes with a range of features to enhance your experience:
+ChatArt is a Mac application designed to make your conversations with GPT models more enjoyable and efficient. The app comes with a range of features to enhance your experience:
 
 - User-friendly native interface
 - Searchable conversation history
 - Customizable GPT parameters
+
+## Install
+
+- Download `ChatArt.zip` from [latest release page](https://github.com/maiyama18/ChatArtApp/releases/tag/0.9.0)
+- Unarchive the zip and move `ChatArt` to `Applications` directory
 
 ## ScreenShots
 
