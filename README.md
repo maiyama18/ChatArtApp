@@ -17,7 +17,7 @@ macOS Ventura and above.
 
 ## Install
 
-- Download `ChatArtInstaller.dmg` from [latest release](https://github.com/maiyama18/ChatArtApp/releases)
+- Download `ChatArtInstaller.dmg` from [latest release](https://github.com/maiyama18/ChatArtApp/releases/latest)
 - Open `ChatArtInstaller.dmg` and move `ChatArt` to `Applications` directory
 
 ## ScreenShots
